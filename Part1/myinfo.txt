@@ -1,3 +1,8 @@
 Amanda Atrash
+<<<<<<< HEAD
 22033
 atrashal@vcu.edu
+=======
+703-980-2806
+atrashal
+>>>>>>> 74c0f159cbeac3ed60e1453c67fc0711aadf3efe
